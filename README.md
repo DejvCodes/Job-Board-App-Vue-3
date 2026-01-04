@@ -3,7 +3,7 @@ A modern and responsive Job Board Application built with Vue 3, Vue Router, Tail
 This app allows users to browse, add, edit and delete job listings with a beautiful gradient UI and smooth animations. 
 All data is stored via JSON Server for a full CRUD experience.
 
-## 🚀 Features 
+## 🚀 Features
 • **Browse Jobs** – View all available job listings with modern card layouts and pagination. <br>
 • **Job Details** – Detailed view of individual job postings with company information and location. <br>
 • **Add Jobs** – Create new job listings with comprehensive forms including job type, salary, location and company details. <br>
